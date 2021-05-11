@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-11T13:37:12 CEST" name="hepsiburada.com" finished-at="2021-05-11T13:39:24 CEST" duration-ms="131811">
+    <groups>
+    </groups>
+    <test started-at="2021-05-11T13:37:12 CEST" name="ADD To Cart with logged user" finished-at="2021-05-11T13:39:24 CEST" duration-ms="131811">
+      <class name="Tests.T_1_Add_to_Cart_With_Logged_User">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:36:42 CEST" name="openBrowser" finished-at="2021-05-11T13:37:12 CEST" duration-ms="29528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:37:12 CEST" name="StartTest" finished-at="2021-05-11T13:37:12 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method signature="Login()[pri:1, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:37:12 CEST" name="Login" finished-at="2021-05-11T13:37:42 CEST" duration-ms="29897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:37:42 CEST" name="EndTest" finished-at="2021-05-11T13:37:42 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:37:42 CEST" name="StartTest" finished-at="2021-05-11T13:37:42 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method signature="SearchPhone()[pri:2, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:37:42 CEST" name="SearchPhone" finished-at="2021-05-11T13:37:44 CEST" duration-ms="2255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPhone -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:37:44 CEST" name="EndTest" finished-at="2021-05-11T13:37:44 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method signature="selectAndVerifyFilter()[pri:3, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:37:44 CEST" name="selectAndVerifyFilter" finished-at="2021-05-11T13:38:26 CEST" duration-ms="42153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAndVerifyFilter -->
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:37:44 CEST" name="StartTest" finished-at="2021-05-11T13:37:44 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:26 CEST" name="EndTest" finished-at="2021-05-11T13:38:26 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:26 CEST" name="StartTest" finished-at="2021-05-11T13:38:26 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method signature="NavigateAndVerifySecondPage()[pri:4, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:26 CEST" name="NavigateAndVerifySecondPage" finished-at="2021-05-11T13:38:38 CEST" duration-ms="11417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateAndVerifySecondPage -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:38 CEST" name="EndTest" finished-at="2021-05-11T13:38:38 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:38 CEST" name="StartTest" finished-at="2021-05-11T13:38:38 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method signature="SelectFifthProduct()[pri:5, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:38 CEST" name="SelectFifthProduct" finished-at="2021-05-11T13:38:55 CEST" duration-ms="17073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectFifthProduct -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:55 CEST" name="EndTest" finished-at="2021-05-11T13:38:55 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:55 CEST" name="StartTest" finished-at="2021-05-11T13:38:55 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method signature="LikeProductAndVerifyPopUp()[pri:6, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:55 CEST" name="LikeProductAndVerifyPopUp" finished-at="2021-05-11T13:38:58 CEST" duration-ms="3538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LikeProductAndVerifyPopUp -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:58 CEST" name="EndTest" finished-at="2021-05-11T13:38:58 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method signature="NavigateToMyFavoritesPage()[pri:7, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:58 CEST" name="NavigateToMyFavoritesPage" finished-at="2021-05-11T13:39:09 CEST" duration-ms="10990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToMyFavoritesPage -->
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:38:58 CEST" name="StartTest" finished-at="2021-05-11T13:38:58 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:09 CEST" name="EndTest" finished-at="2021-05-11T13:39:09 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method signature="AddtoCart()[pri:8, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:09 CEST" name="AddtoCart" finished-at="2021-05-11T13:39:10 CEST" duration-ms="1190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtoCart -->
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:09 CEST" name="StartTest" finished-at="2021-05-11T13:39:09 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:10 CEST" name="EndTest" finished-at="2021-05-11T13:39:10 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:10 CEST" name="StartTest" finished-at="2021-05-11T13:39:10 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method signature="NavigateToCheckoutPage()[pri:9, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:10 CEST" name="NavigateToCheckoutPage" finished-at="2021-05-11T13:39:21 CEST" duration-ms="11089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToCheckoutPage -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:21 CEST" name="EndTest" finished-at="2021-05-11T13:39:21 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:21 CEST" name="StartTest" finished-at="2021-05-11T13:39:21 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method signature="DeleteProduct()[pri:10, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:21 CEST" name="DeleteProduct" finished-at="2021-05-11T13:39:22 CEST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteProduct -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:22 CEST" name="EndTest" finished-at="2021-05-11T13:39:22 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:22 CEST" name="StartTest" finished-at="2021-05-11T13:39:22 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method signature="ValidateDeleteProduct()[pri:11, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:22 CEST" name="ValidateDeleteProduct" finished-at="2021-05-11T13:39:24 CEST" duration-ms="1737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDeleteProduct -->
+        <test-method is-config="true" signature="EndTest()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:24 CEST" name="EndTest" finished-at="2021-05-11T13:39:24 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.T_1_Add_to_Cart_With_Logged_User@43301423]" started-at="2021-05-11T13:39:24 CEST" name="closeBrowser" finished-at="2021-05-11T13:39:29 CEST" duration-ms="5423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Tests.T_1_Add_to_Cart_With_Logged_User -->
+    </test> <!-- ADD To Cart with logged user -->
+  </suite> <!-- hepsiburada.com -->
+</testng-results>

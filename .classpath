@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/seleniumWorks/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/seleniumWorks/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/seleniumWorks/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/seleniumWorks/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/seleniumWorks/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/seleniumWorks/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/seleniumWorks/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/ooxml-lib/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aksoyak/Desktop/poi-5.0.0/ooxml-lib/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
